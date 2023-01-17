@@ -3,11 +3,11 @@
 
 <div class="container">
 	<div>
-		<a type="button" class="btn btn-primary btn-md" href="/add-todo">Add Todo</a>
+		<a type="button" class="btn btn-primary btn-md" href="/add-todo" style="background-color: #ffefde; color:#393939;">Add Todo</a>
 	</div>
 	<br>
 	<div class="panel panel-primary">
-		<div class="panel-heading">
+		<div class="panel-heading" style="background-color: #ffefde; color:#393939;">
 			<h3>List of TODO's</h3>
 		</div>
 		<div class="panel-body">

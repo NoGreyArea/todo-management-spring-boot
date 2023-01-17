@@ -9,6 +9,8 @@ import javax.persistence.Id;
 import javax.persistence.Table;
 import javax.validation.constraints.Size;
 
+
+
 @Entity
 @Table(name = "todos")
 public class Todo {

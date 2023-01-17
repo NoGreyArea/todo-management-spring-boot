@@ -1,9 +1,11 @@
 
 <nav role="navigation" class="navbar navbar-default">
-	<div class="">
-		<a href="http://www.javaguides.net" class="navbar-brand">Java Guides</a>
-	</div>
-	<div class="navbar-collapse">
+<!-- 	<div class="">
+		<a href="http://www.javaguides.net" class="navbar-brand">Java
+			Guides</a>
+	</div> -->
+	<div class="navbar-collapse" style="background-color:#ffefde;"
+	>
 		<ul class="nav navbar-nav">
 			<li class="active"><a href="/">Home</a></li>
 			<li><a href="/list-todos">Todos</a></li>

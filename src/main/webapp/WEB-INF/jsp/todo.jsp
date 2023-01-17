@@ -4,7 +4,8 @@
 	<div class="row">
 		<div class="col-md-6 col-md-offset-3 ">
 			<div class="panel panel-primary">
-				<div class="panel-heading">Add TODO</div>
+				<div class="panel-heading"style="background-color: #ffefde; color:#393939;">Add
+					TODO</div>
 				<div class="panel-body">
 					<form:form method="post" modelAttribute="todo">
 						<form:hidden path="id" />
